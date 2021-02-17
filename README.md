@@ -5,8 +5,6 @@
 
 ![](https://komarev.com/ghpvc/?username=vedatdogan&color=green)
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
-
 - 🎓 I am currently fully-funded **PhD Student at Confirm Smart Matufacturing Centre, University College Cork**
 
 - 🔭 I’m currently working on **Bayesian Learning, Meta-Learning, Bi-level Optimization Problems, Artificial Intelligence**
@@ -18,7 +16,7 @@
 -  📚 Enthusiast in **Machine Learning and Artificial Intelligence Algorithms**
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedatdogan&show_icons=true&theme=default) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedatdogan&layout=compact)](https://github.com/vedatdogan/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedatdogan&show_icons=true&theme=default) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedatdogan&layout=compact)](https://github.com/vedatdogan/github-readme-stats) <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
