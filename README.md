@@ -20,7 +20,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedatdogan&show_icons=true&theme=default) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedatdogan&layout=compact)](https://github.com/vedatdogan/github-readme-stats)
 
-<h3> 🤝🏻 Connect with Me </h3>. 
+<h3> 🤝🏻 Connect with Me </h3>
 
 <p align="left">
 &nbsp; <a href="https://twitter.com/vedat__dogan" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
