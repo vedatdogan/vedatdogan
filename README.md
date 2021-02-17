@@ -1,9 +1,10 @@
 <h2 align="center"> Hey there! 👋🏼 I'm Vedat.</h2>
-<h3 align="center">PhD Student, Researcher, Data Scientist, Machine Learning Engineer</h3>
+<h3 align="center">PhD Cendidate, Researcher, Data Scientist, Machine Learning Engineer</h3>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
 ![](https://komarev.com/ghpvc/?username=vedatdogan&color=green)
+
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
 - 🎓 I am currently fully-funded **PhD Student at Confirm Smart Matufacturing Centre, University College Cork**
